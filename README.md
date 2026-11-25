@@ -11,8 +11,6 @@ This tutorial shows you how to:
 3. read the fit report, including the correlations most people skip,
 4. make a figure ready for publication, with the components and a residuals panel.
 
-![Fit result](peak_fit.png)
-
 ## 1. The data
 
 We use a synthetic spectrum so that you can check the fit against the true answer. It has two Lorentzian peaks at 652 nm and 668 nm, with half-widths of 6 nm and 8 nm, on a gently sloped background, plus Gaussian noise with σ = 0.6.
